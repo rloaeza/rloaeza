@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rloaeza
+- 👋 Hi, Soy @rloaeza
 - 👀 Me gusta programar para dispositivos móviles ..
 - 🌱 Actualmente estoy incursionando en Flutter ...
 
